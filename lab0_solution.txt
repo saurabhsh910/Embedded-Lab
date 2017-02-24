@@ -1,0 +1,4 @@
+set {char[9]} 0xa000 = "rbhvabgm"
+set {char[9]} 0xa028 = "plee2abc"
+set {char} 0xa004 = 157
+c
